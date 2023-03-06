@@ -16,6 +16,7 @@
 		E7CBCDB829AC47650079860D /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CBCDB729AC47650079860D /* video_playerTests.swift */; };
 		E7CBCDC229AC47650079860D /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CBCDC129AC47650079860D /* video_playerUITests.swift */; };
 		E7CBCDC429AC47650079860D /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CBCDC329AC47650079860D /* video_playerUITestsLaunchTests.swift */; };
+		E7CBCDD129AC49780079860D /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7CBCDD029AC49780079860D /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E7CBCDBD29AC47650079860D /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7CBCDC129AC47650079860D /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		E7CBCDC329AC47650079860D /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E7CBCDD029AC49780079860D /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E7CBCDA429AC47640079860D /* ViewController.swift */,
 				E7CBCDA629AC47640079860D /* Main.storyboard */,
 				E7CBCDA929AC47650079860D /* Assets.xcassets */,
+				E7CBCDD029AC49780079860D /* test.mp4 */,
 				E7CBCDAB29AC47650079860D /* LaunchScreen.storyboard */,
 				E7CBCDAE29AC47650079860D /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				E7CBCDAD29AC47650079860D /* LaunchScreen.storyboard in Resources */,
 				E7CBCDAA29AC47650079860D /* Assets.xcassets in Resources */,
 				E7CBCDA829AC47640079860D /* Main.storyboard in Resources */,
+				E7CBCDD129AC49780079860D /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
